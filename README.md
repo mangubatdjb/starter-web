@@ -13,3 +13,7 @@ This example is to show the different parts of the Git repository and vairous co
 
 
 ## How To Contribute
+
+## Copyright
+
+Git.Training.2021
